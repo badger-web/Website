@@ -10,6 +10,7 @@ width:100%;
 height:100%;
 }
 
+body
 {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ed/Pine_forest_Ooty.jpg");
   background-color: #cccccc;
@@ -17,7 +18,6 @@ height:100%;
   background-repeat: no-repeat;
   background-size: 1600px 1500px;
   
-
 }
 
 h1 {
