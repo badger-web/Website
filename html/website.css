@@ -1,7 +1,8 @@
-body {
-padding: 0;
-margin: 0;
-}
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+} 
 
 body  {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ed/Pine_forest_Ooty.jpg");
