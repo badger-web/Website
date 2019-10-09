@@ -1,17 +1,5 @@
 body
 {
-    width:1920px;
-    background-color: #f8e0b3;
-    height:1080px;
-}
-div.container
-{
-width:100%;
-height:100%;
-}
-
-body
-{
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ed/Pine_forest_Ooty.jpg");
   background-color: #cccccc;
   background-position: center;
