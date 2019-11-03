@@ -1,10 +1,11 @@
 
 body
 {
-background:url("https://upload.wikimedia.org/wikipedia/commons/e/ed/Pine_forest_Ooty.jpg") no-repeat;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ed/Pine_forest_Ooty.jpg");
   background-color: #cccccc;
   background-position: center;
-  background-size: width: 60% ; height: 1080px ; width: 1920px ; min-width: 480px ;
+  background-repeat: no-repeat;
+  background-size: 1600px 2200px;
   
 
 }
